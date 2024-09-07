@@ -1,0 +1,79 @@
+.legend{
+    font-family: sans-serif;
+    font-size: 2rem;
+
+    
+    
+}
+fieldset{
+    border: 3px solid;
+    border-color: whitesmoke;
+    align-self: center;
+    
+}
+
+form{
+    align-self: center;
+    margin: 0 auto 1rem;
+    background-color: whitesmoke;
+    margin-left: 3rem;
+    border-width: 7px;
+    border: 3px solid ;
+    border-radius: 1rem;
+    border-color: rgba(245, 245, 245, 0.542);
+    padding: 2rem;
+    max-width: 50%;
+    text-align: center;
+    margin-right: 4rem;
+   
+
+    
+}
+
+input{
+    padding: 0rem;
+    text-align: center;
+    width: 23rem;
+    height: 2rem;
+    text-align: center;
+}
+
+body{
+    background-color: white;
+    text-align: top;
+    margin-right: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.login{
+    color: white;
+    font-size: 1rem;
+    background-color: rgb(65, 65, 216);
+    border-color: rgb(53, 53, 218);
+    border-width: 0.5rem;
+    border-radius: 0.5rem;
+    width: 23rem;
+    height: 2rem;
+    
+}
+
+.create{
+    color: white;
+    background-color: rgb(27, 208, 27);
+    width: 15rem;
+    height: 2rem;
+    border-color: rgb(29, 217, 29);
+    border-radius: 0.5rem;
+}
+
+a{
+    font-family: sans-serif;
+    color: blue;
+    text-decoration: none;
+}
+
+
